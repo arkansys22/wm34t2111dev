@@ -28,6 +28,18 @@ class Wmeat extends CI_Controller {
     $this->load->view('fronts/shop/v_detail', $data);
   }
 
+  public function cart()
+  {
+    $data['status']   = 'active';
+    $this->load->view('fronts/shop/v_cart', $data);
+  }
+
+  public function checkout()
+  {
+    $data['status']   = 'active';
+    $this->load->view('fronts/shop/v_checkout', $data);
+  }
+
 
 
 }
