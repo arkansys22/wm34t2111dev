@@ -4,6 +4,8 @@ $route['default_controller'] = 'wmeat';
 /* Controller Frontend - Pembuka*/
 $route['shop'] = "wmeat/shop";
 $route['shop-detail'] = "wmeat/shopdetail";
+$route['cart'] = "wmeat/cart";
+$route['checkout'] = "wmeat/checkout";
 
 /* Controller Frontend - Penutup*/
 $route['syarat-ketentuan/(:any)'] = "note/detail/$1";
