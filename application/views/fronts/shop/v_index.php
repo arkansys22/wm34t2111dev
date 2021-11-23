@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en-US" class="" data-skin="light">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 <head>
@@ -135,7 +135,7 @@
 
 				<ul class="products columns-3">
 
-																					<li class="product type-product post-1174 status-publish first onbackorder product_cat-recipe has-post-thumbnail shipping-taxable purchasable product-type-variable">
+	<li class="product type-product post-1174 status-publish first onbackorder product_cat-recipe has-post-thumbnail shipping-taxable purchasable product-type-variable">
 	<a href="../product/creamy-melt/index.html" class="woocommerce-LoopProduct-link woocommerce-loop-product__link"><img width="600" height="600" src="assets/front/uploads/2019/10/gallery_image6-min.jpg" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="" loading="lazy" srcset="http://demo.themewinter.com/wp/gloreya/wp-content/uploads/2019/10/gallery_image6-min.jpg 800w, http://demo.themewinter.com/wp/gloreya/wp-content/uploads/2019/10/gallery_image6-min-150x150.jpg 150w, http://demo.themewinter.com/wp/gloreya/wp-content/uploads/2019/10/gallery_image6-min-300x300.jpg 300w, http://demo.themewinter.com/wp/gloreya/wp-content/uploads/2019/10/gallery_image6-min-768x768.jpg 768w" sizes="(max-width: 600px) 100vw, 600px" /><h2 class="woocommerce-loop-product__title">Creamy Melt</h2>
 	<span class="price"><span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">&pound;</span>40.00</bdi></span></span>
 </a><a href="../product/creamy-melt/index.html" data-quantity="1" class="button product_type_variable add_to_cart_button" data-product_id="1174" data-product_sku="foods-collection" aria-label="Select options for &ldquo;Creamy Melt&rdquo;" rel="nofollow">Select options</a></li>
